@@ -1,0 +1,46 @@
+BODY {
+	background-color: #6CA3BD;
+	color: #000000;
+	font-family: Arial;
+}
+TD {
+	text-align: center;
+	vertical-align: middle;
+	background-color: #6CA3BD;
+}
+TH {
+	color: #FFFFFF;
+	background-color: #6CA3BD;
+}
+TABLE {
+	background-color: #AAAAAA;
+}
+A {
+	color: #000000;
+}
+.server {
+	font-weight: bold;
+}
+#warning {
+	background-color: #0000FF;
+	color: #FFFFFF;
+}
+#good {
+	background-color: #00FF00;
+	color: #000000;
+}
+#noexist {
+	color: #000000;
+}
+H1 {
+	text-align: center;
+}
+#Selected {
+	font-weight: bold;
+}
+#Connected {
+	color: #00FF00;
+}
+#NoConnection {
+	color: #FF0000;
+}

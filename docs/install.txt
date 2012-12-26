@@ -1,0 +1,13 @@
+Network Hardware Tracking and Monitoring
+========================================
+Version: 0.1.0 Alpha
+
+Author: Jon Spriggs
+Collaborators: None (as yet?)
+
+INSTALL
+
+1) Put these files into your web server
+2) Create the database. Update functions/dbConnect.php with the path and username.
+3) Insert the contents of sql/nhtam.sql into the database.
+4) Add ping.php as a scheduled task.
